@@ -25,12 +25,6 @@ purpose, diversity statements, and CVs/resumes.
 application materials.
 - **Checklist**: A checklist to keep track of important deadlines and ensure you have all required documents prepared.
 
-## 📂 Repository Structure
-
-- `templates/`: Contains blank templates for all major application documents.
-- `examples/`: Sample statements and CVs with annotations.
-- `guides/`: Writing tips, formatting guides, and checklists.
-
 ## ✍️ How to Use This Repository
 
 1. **Clone or Download**: You can clone this repository to your local machine or download the templates you need directly.
@@ -39,9 +33,19 @@ application materials.
 4. **Apply**: Use the materials as a starting point and tailor them to the requirements of each program you are
 applying to.
 
-## Resources
+## 📂 Repository Structure & Contents
 
-## Checklist
+- `templates/`: Contains blank templates for all major application documents.
+- `examples/`: Sample statements and CVs with annotations.
+- `guides/`: Writing tips, formatting guides, and checklists.
+
+### Templates
+
+### Examples
+
+### Guides
+
+## 📚 Additional Resources
 
 ## 📢 Contributing
 

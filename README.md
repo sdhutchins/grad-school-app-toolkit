@@ -63,6 +63,9 @@ applying to.
 
 ### Templates
 
+- [Personal Statement Worksheet](templates/personal_statement_worksheet.docx) - This was the most helpful document I used when applying to graduate school. It helped me organize my thoughts and experiences in a way that made it easier to write my personal statement. The questions are designed to help you reflect on your experiences and goals, which can be useful for writing a compelling personal statement.
+- [Statement of Purpose Template](templates/statement_of_purpose_template.docx) - This template helps guide you or structure your statement of purpose by section/paragraphs with some helpful phrases.
+
 ### Examples
 
 ### Guides

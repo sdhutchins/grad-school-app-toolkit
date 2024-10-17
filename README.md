@@ -5,6 +5,28 @@ examples designed to help you craft strong, effective documents for graduate sch
 (*particularly biomedical sciences*). This resource aims to guide you through the
 process with practical advice and real-world examples.
 
+## ⚠️ Disclaimer on Integrity ⚠️
+
+This toolkit is designed to help guide you through the graduate school application process by providing templates,
+examples, and resources to craft your documents. **It is essential to uphold academic integrity and ethical standards when
+using these materials.** The provided templates and examples are for reference and inspiration only. Your personal
+statements, CVs, and other application documents should reflect your unique experiences, goals, and qualifications.
+
+**Plagiarism is strictly prohibited.** Copying content directly from these examples, or any other source, without
+proper attribution or personal modification is a violation of academic integrity and can severely impact your
+application. Graduate schools expect originality and honesty in all submitted materials.
+
+By using this toolkit, you agree to:
+
+- Use the provided resources solely as guidance.
+- Ensure all content in your application materials is your own work.
+- Avoid copying or reusing substantial portions of text from the examples without significant modification to reflect
+ your own experiences and goals.
+
+Maintaining integrity throughout the application process not only upholds your reputation but also ensures that you
+represent yourself accurately to potential graduate programs. Good luck, and remember,
+you are showcasing your *own* potential!
+
 ## 🎓 Why Use This Toolkit?
 
 When I was applying to graduate school, I found it challenging to write compelling personal statements and CVs that

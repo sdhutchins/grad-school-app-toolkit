@@ -75,7 +75,7 @@ applying to.
 ## 📢 Contributing
 
 I welcome contributions! If you have templates, examples, or resources that could benefit others, please feel free to
-submit a pull request or open an issue. Guidelines for contributions can be found in the `CONTRIBUTING.md` file.
+submit a pull request or open an issue. Guidelines for contributions can be found in the [`CONTRIBUTING.md`](CONTRIBUTING.md) file.
 
 ## 📬 Contact
 
